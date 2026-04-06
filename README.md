@@ -1,7 +1,7 @@
 # DiFaRL
 
 Welcome to the official DiFaRL repository!
-Use these instructions to generate the results from 5.
+Use these instructions to generate the results from figure 5.
 
 ## Blood Pressure Simulator
 
